@@ -146,5 +146,5 @@ or sample live
 function GetAPI($) {
       console.log($);
 }
-Nature.FetchAPIFunc(urlm GetAPI);
+Nature.FetchAPIFunc(url, GetAPI);
 `
