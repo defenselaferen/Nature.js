@@ -138,3 +138,13 @@ console.log(dbs.Vector2D);
 
 # How TO Import CDN
 `In New Version : let db = Import.Lib(DataBase)`
+
+How To Use API / FETCH
+`In New Version : Nature.FetchAPIFunc(url, function)`
+or sample live
+`
+function GetAPI($) {
+      console.log($);
+}
+Nature.FetchAPIFunc(urlm GetAPI);
+`
