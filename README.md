@@ -135,3 +135,6 @@ console.log(stringMain);
                
 dbs.DeleteData(1);
 console.log(dbs.Vector2D);
+
+# How TO Import CDN
+`In New Version : let db = Import.Lib(DataBase)`
