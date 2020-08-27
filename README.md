@@ -43,15 +43,18 @@ Data Is Not Encrypt
 (out put 10)
 */
 /*
-+###########+###########+
-# DataBase  # Syntax    #
-+###########+###########+
-# QueryValue(primary)   #
-# PushData(object)      #
-# GetLength()           #
-# DeleteData(primary)   #
-# PushPrimaryIncrement  #
-+#######################+
+`
+###########+###########
+ DataBase  # Syntax    
++###########+###########
+ QueryValue(primary)
+ PushData(object)      
+ GetLength()           
+ DeleteData(primary)   
+ PushPrimaryIncrement  
+#######################
+`
+`
 If You Use This DataBase
 (Can't value array)
 PushData({
@@ -64,7 +67,8 @@ this is increment primary
 -------------------------
 | 0 -> 1 -> 2 -> 3 -> 4 |
 -------------------------
-*/
+`
+`
 /*
 +###########+###########+
 # DataBases # Syntax    #
@@ -87,7 +91,7 @@ this is increment primary
  -------------------------
 | 0 -> 1 -> 2 -> 3 -> 4 |
 -------------------------
-*/
+`
 
 // Script Source No. 1
 let db = new DataBase();
